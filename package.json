@@ -1,0 +1,11 @@
+{
+  "name": "factorio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^7.0.29",
+    "buffer": "^5.0.6",
+    "zlib": "^1.0.5"
+  }
+}
